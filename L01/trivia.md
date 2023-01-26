@@ -13,4 +13,4 @@ within code is annoying as the backslash has to be escaped)
 
 **2.** How many sign boards did you see on your way to Paradise?
 
-> I saw 3 sign boards.
+- I saw 3 sign boards.
