@@ -1,0 +1,32 @@
+cd
+	-> changes current directory
+ls
+	-> lists contents of current directory
+man
+	-> gives information about a command and specifies how to use it
+exit
+	-> quits the current shell
+pwd
+	-> prints the path/name of the current directory
+touch
+	-> creates file
+mv
+	-> moves/renames files
+less
+	-> prints contents of a file
+help
+	-> gives help about functions defined for your shell (not commands)
+cp
+	-> copies file
+grep
+	-> searches through text
+tellme
+	-> prints variable (not a real command)
+sudo
+	-> elevates and runs command as super user
+rm
+	-> deletes files
+mkdir
+	-> make directory
+add
+	-> creates locker (not a real command)

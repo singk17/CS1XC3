@@ -1,0 +1,43 @@
+digraph G {
+  "Home" -> "WesternForest"
+  "Home" -> "NorthernMeadow"
+  "Home" -> "MIT"
+  "Home" -> "MagicLocker"
+
+
+  "WesternForest" -> "SpellCastingAcademy"
+  "SpellCastingAcademy" -> "Lessons"
+  "SpellCastingAcademy" -> "PracticeRoom"
+  "PracticeRoom" -> "Box"
+
+
+  "NorthernMeadow" -> "EasternMountains"
+  "EasternMountains" -> "Cave"
+  "Cave" -> "DarkCorridor"
+  "Cave" -> "Staircase"
+  "DarkCorridor" -> "DankRoom"
+  "DankRoom" -> "SmallHole"
+  "DankRoom" -> "Tunnel"
+  "Tunnel" -> "StoneChamber"
+  "StoneChamber" -> "Portal"
+  "Portal" -> "TownSquare"
+  "TownSquare" -> "MarketPlace"
+  "TownSquare" -> "Library"
+  "TownSquare" -> "RockyPath"
+  "TownSquare" -> "ArtisanShop"
+  "TownSquare" -> "BrokenBridge"
+  "Library" -> "BackRoom"
+  "BrokenBridge" -> "Clearing"
+  "RockyPath" -> "Farm"
+  "Clearing" -> "House"
+  "Clearing" -> "OminousLookingPath"
+  "OminousLookingPath" -> "CaveOfDisgruntledTrolls"
+  "CaveOfDisgruntledTrolls" -> "Cage"
+  "CaveOfDisgruntledTrolls" -> "Slide"
+  "Slide" -> "KernelFiles"
+  "KernelFiles" -> "MoreKernelFiles"
+  "KernelFiles" -> "Paradise"
+
+  "MIT" -> "StataCenter"
+  "MIT" -> "AthenaCluster"
+}
