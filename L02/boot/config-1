@@ -1,0 +1,3 @@
+CONFIG_DUMBOS=y
+CONFIG_x86=n
+#t this is a commenty
