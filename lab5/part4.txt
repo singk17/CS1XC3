@@ -1,0 +1,17 @@
+1. How are the iterative and recursive algorithms similar and different
+   for the same test cases? Which has more repetition?
+
+Both algorithms run a specific nested loop ~5000 times. Both have similar amounts of repetition especially in their loops, and their comparisons.
+
+2. What is the most executed line in the iterative and recursive algorithms?
+   Are they the same?
+
+In iterative most executed line is 242, the nested for loop. In the recursive algorithm it is line 144, also a nested for loop.
+
+3. Are there any parts of the code which are not exercised?
+
+The function printArray is never called.
+
+4. If we were to try to optimize either function, where would be a good place to start?
+
+Setting up the array is taking a long time. This would be an interesting place to start. Trying to reduce the amount of numbers we have to calculate.

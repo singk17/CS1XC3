@@ -1,0 +1,23 @@
+1. Why are all the reported times zero.
+
+The gprof command seems to have a precision of 1/100 for time. Since the program runs in less than
+0.0009s, the time rounds out to 0.00.
+
+TLDR: Lack of precision
+
+2. Why is factors_itr only called once every time the program is run?
+
+factors_rec is a recursive function. This means it is EXPECTED to call itself multiple times.
+On the otherhand factors_itr uses an iterative approach so it doesn't need to be called
+multiple time, and it does not recursively call itself.
+
+3. Is there an obvious mathematical relationship between the input number and the number of recursive calls?
+   What about the number of prime factors each number produces?
+
+There is no obvious mathematical relationship between the input number and the number of recursive calls.
+Ex/ i=40 -> calls=2; i=79 -> calls=1; i=240 -> calls=27; i=300 -> calls=16; i=999 -> calls=2; i=4000 -> calls=84
+Calls seems to get bigger as i increases, but at the same time random inputs like 999, leave us with only 2 calls.
+
+No obvious mathematical relationship between input and number of prime factors.
+Roughly gets bigger as the input gets bigger, but then there literal prime numbers like 79, that only have 1 prime factor.
+i=40 -> pF=4; i=79 -> pF=1; i=240 -> pF=6; i=300 -> pF=5; i=999 -> pF=4; i=4000 -> pF=8
