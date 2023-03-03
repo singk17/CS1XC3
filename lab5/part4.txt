@@ -2,11 +2,15 @@
    for the same test cases? Which has more repetition?
 
 Both algorithms run a specific nested loop ~5000 times. Both have similar amounts of repetition especially in their loops, and their comparisons.
+The difference is that the iterative algorithm is more memory efficient as it negates the need to create a larger function stack.
 
 2. What is the most executed line in the iterative and recursive algorithms?
    Are they the same?
 
-In iterative most executed line is 242, the nested for loop. In the recursive algorithm it is line 144, also a nested for loop.
+In iterative mode the most executed line is 107, which is run >15000 times ONLY in the 256 input.
+Int recursive mode the most executed line is 215, which is run >6000 times ONLY in the 256 input.
+More consistently, in iterative most executed line is 242, the nested for loop, and in
+the recursive algorithm it is line 144, also a nested for loop.
 
 3. Are there any parts of the code which are not exercised?
 
