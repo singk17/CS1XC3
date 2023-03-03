@@ -1,5 +1,5 @@
 Search Value,Linear Search,Binary Search,Fibonacci Search,Notes
-1,0.004,0.002,0.002,Fibbonnaci search does about 4% more comparisons, but computers are fast so the 4% is counterbalances by the time saved from the lack of bitshifts
+1,0.004,0.002,0.002,Fibbonnaci search does about 4% more comparisons than binary search, but computers are fast so the 4% is counterbalances by the time saved from the lack of bitshifts
 4,0.003,0.002,0.002,Same argument as before
 22,0.002,0.002,0.002,This one and the last one don't make sense, 22 is the second item and 4 is the first item in the array, considering how fibbonacci and binary work, they should have been slower to find these, I'm 90% sure the problem is that these time measurements are wrong, cause time doesn't work correctly
 37,0.002,0.002,0.002,Look at the other notes for the rest of this

@@ -1,10 +1,10 @@
 Search Value,Linear Search,Binary Search,Fibonacci Search,Notes
 1,2240,2132,2308,All of the memory usages are around ~2kb, the difference is ~100bytes
 4,2300,2248,2256,This difference of ~100bytes makes no sense,  linear search has only 1 local variable
-22,2300,2208,2256,Both Binary and fib do. What this means is that the difference in memory isn't because of the actual algorithms/code
-37,2232,2228,2240,It's most likely due to just how the C runtime is setting up the stack in that instance
+22,2300,2208,2256,Both Binary and fib have many more. What this means is that the difference in memory probably isn't because of the actual algorithms/code
+37,2232,2228,2240,It's most likely just due to how the C runtime is setting up the stack in that execution of the program.
 22906,2240,2240,2232,Like realistically speaking the memory usage of Linear should be constant, because there's only 1 variable "i" which is ALWAYS allocated
-53757,2228,2264,2300,The memory usage of fibonacci should also really be constant or at most differ by about ~4 bytes, the ~100 byte difference between 2308 and 2200 is probably not cause of the alg but rather the system
+53757,2228,2264,2300,The memory usage of fibonacci should also really be constant or at most differ by about ~50 bytes, the ~100 byte difference between 2308 and 2200 is probably not cause of the alg but rather the system
 112591,2208,2264,2244,Binary search should have the highest memory usage because its defined as a recursive function but nope it stays under 2270 bytes
 361940,2248,2240,2200,Fibonacci
 475713,2200,2232,2224,Linear
