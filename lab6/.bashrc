@@ -18,6 +18,6 @@ export PATH
 # User specific aliases and functions
 PS1="[\u:\W 💀] "
 
-cd code/Labs/CS1XC3
+cd ~/code/Labs/CS1XC3
 git pull
 cd ~
