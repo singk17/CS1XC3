@@ -1,4 +1,7 @@
+int yyz = 42;
+
 int prod2(int x, int y) {
+    yyz *= x;
 	return x * y;
 }
 

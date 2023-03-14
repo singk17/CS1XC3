@@ -1,0 +1,989 @@
+
+C_Shanties.o:     file format elf64-x86-64
+
+
+Disassembly of section .text:
+
+0000000000000000 <barrettsPrivateers>:
+   0:	55                   	push   %rbp
+   1:	48 89 e5             	mov    %rsp,%rbp
+   4:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # b <barrettsPrivateers+0xb>
+   b:	e8 00 00 00 00       	callq  10 <barrettsPrivateers+0x10>
+  10:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 17 <barrettsPrivateers+0x17>
+  17:	e8 00 00 00 00       	callq  1c <barrettsPrivateers+0x1c>
+  1c:	bf 02 00 00 00       	mov    $0x2,%edi
+  21:	e8 00 00 00 00       	callq  26 <barrettsPrivateers+0x26>
+  26:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 2d <barrettsPrivateers+0x2d>
+  2d:	e8 00 00 00 00       	callq  32 <barrettsPrivateers+0x32>
+  32:	bf 02 00 00 00       	mov    $0x2,%edi
+  37:	e8 00 00 00 00       	callq  3c <barrettsPrivateers+0x3c>
+  3c:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 43 <barrettsPrivateers+0x43>
+  43:	e8 00 00 00 00       	callq  48 <barrettsPrivateers+0x48>
+  48:	bf 02 00 00 00       	mov    $0x2,%edi
+  4d:	e8 00 00 00 00       	callq  52 <barrettsPrivateers+0x52>
+  52:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 59 <barrettsPrivateers+0x59>
+  59:	e8 00 00 00 00       	callq  5e <barrettsPrivateers+0x5e>
+  5e:	bf 02 00 00 00       	mov    $0x2,%edi
+  63:	e8 00 00 00 00       	callq  68 <barrettsPrivateers+0x68>
+  68:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 6f <barrettsPrivateers+0x6f>
+  6f:	e8 00 00 00 00       	callq  74 <barrettsPrivateers+0x74>
+  74:	bf 02 00 00 00       	mov    $0x2,%edi
+  79:	e8 00 00 00 00       	callq  7e <barrettsPrivateers+0x7e>
+  7e:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 85 <barrettsPrivateers+0x85>
+  85:	e8 00 00 00 00       	callq  8a <barrettsPrivateers+0x8a>
+  8a:	bf 01 00 00 00       	mov    $0x1,%edi
+  8f:	e8 00 00 00 00       	callq  94 <barrettsPrivateers+0x94>
+  94:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 9b <barrettsPrivateers+0x9b>
+  9b:	e8 00 00 00 00       	callq  a0 <barrettsPrivateers+0xa0>
+  a0:	bf 02 00 00 00       	mov    $0x2,%edi
+  a5:	e8 00 00 00 00       	callq  aa <barrettsPrivateers+0xaa>
+  aa:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # b1 <barrettsPrivateers+0xb1>
+  b1:	e8 00 00 00 00       	callq  b6 <barrettsPrivateers+0xb6>
+  b6:	bf 02 00 00 00       	mov    $0x2,%edi
+  bb:	e8 00 00 00 00       	callq  c0 <barrettsPrivateers+0xc0>
+  c0:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # c7 <barrettsPrivateers+0xc7>
+  c7:	e8 00 00 00 00       	callq  cc <barrettsPrivateers+0xcc>
+  cc:	bf 02 00 00 00       	mov    $0x2,%edi
+  d1:	e8 00 00 00 00       	callq  d6 <barrettsPrivateers+0xd6>
+  d6:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # dd <barrettsPrivateers+0xdd>
+  dd:	e8 00 00 00 00       	callq  e2 <barrettsPrivateers+0xe2>
+  e2:	bf 02 00 00 00       	mov    $0x2,%edi
+  e7:	e8 00 00 00 00       	callq  ec <barrettsPrivateers+0xec>
+  ec:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # f3 <barrettsPrivateers+0xf3>
+  f3:	e8 00 00 00 00       	callq  f8 <barrettsPrivateers+0xf8>
+  f8:	bf 02 00 00 00       	mov    $0x2,%edi
+  fd:	e8 00 00 00 00       	callq  102 <barrettsPrivateers+0x102>
+ 102:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 109 <barrettsPrivateers+0x109>
+ 109:	e8 00 00 00 00       	callq  10e <barrettsPrivateers+0x10e>
+ 10e:	bf 02 00 00 00       	mov    $0x2,%edi
+ 113:	e8 00 00 00 00       	callq  118 <barrettsPrivateers+0x118>
+ 118:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 11f <barrettsPrivateers+0x11f>
+ 11f:	e8 00 00 00 00       	callq  124 <barrettsPrivateers+0x124>
+ 124:	bf 02 00 00 00       	mov    $0x2,%edi
+ 129:	e8 00 00 00 00       	callq  12e <barrettsPrivateers+0x12e>
+ 12e:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 135 <barrettsPrivateers+0x135>
+ 135:	e8 00 00 00 00       	callq  13a <barrettsPrivateers+0x13a>
+ 13a:	bf 02 00 00 00       	mov    $0x2,%edi
+ 13f:	e8 00 00 00 00       	callq  144 <barrettsPrivateers+0x144>
+ 144:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 14b <barrettsPrivateers+0x14b>
+ 14b:	e8 00 00 00 00       	callq  150 <barrettsPrivateers+0x150>
+ 150:	bf 01 00 00 00       	mov    $0x1,%edi
+ 155:	e8 00 00 00 00       	callq  15a <barrettsPrivateers+0x15a>
+ 15a:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 161 <barrettsPrivateers+0x161>
+ 161:	e8 00 00 00 00       	callq  166 <barrettsPrivateers+0x166>
+ 166:	bf 02 00 00 00       	mov    $0x2,%edi
+ 16b:	e8 00 00 00 00       	callq  170 <barrettsPrivateers+0x170>
+ 170:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 177 <barrettsPrivateers+0x177>
+ 177:	e8 00 00 00 00       	callq  17c <barrettsPrivateers+0x17c>
+ 17c:	bf 02 00 00 00       	mov    $0x2,%edi
+ 181:	e8 00 00 00 00       	callq  186 <barrettsPrivateers+0x186>
+ 186:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 18d <barrettsPrivateers+0x18d>
+ 18d:	e8 00 00 00 00       	callq  192 <barrettsPrivateers+0x192>
+ 192:	bf 02 00 00 00       	mov    $0x2,%edi
+ 197:	e8 00 00 00 00       	callq  19c <barrettsPrivateers+0x19c>
+ 19c:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 1a3 <barrettsPrivateers+0x1a3>
+ 1a3:	e8 00 00 00 00       	callq  1a8 <barrettsPrivateers+0x1a8>
+ 1a8:	bf 02 00 00 00       	mov    $0x2,%edi
+ 1ad:	e8 00 00 00 00       	callq  1b2 <barrettsPrivateers+0x1b2>
+ 1b2:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 1b9 <barrettsPrivateers+0x1b9>
+ 1b9:	e8 00 00 00 00       	callq  1be <barrettsPrivateers+0x1be>
+ 1be:	bf 02 00 00 00       	mov    $0x2,%edi
+ 1c3:	e8 00 00 00 00       	callq  1c8 <barrettsPrivateers+0x1c8>
+ 1c8:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 1cf <barrettsPrivateers+0x1cf>
+ 1cf:	e8 00 00 00 00       	callq  1d4 <barrettsPrivateers+0x1d4>
+ 1d4:	bf 02 00 00 00       	mov    $0x2,%edi
+ 1d9:	e8 00 00 00 00       	callq  1de <barrettsPrivateers+0x1de>
+ 1de:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 1e5 <barrettsPrivateers+0x1e5>
+ 1e5:	e8 00 00 00 00       	callq  1ea <barrettsPrivateers+0x1ea>
+ 1ea:	bf 02 00 00 00       	mov    $0x2,%edi
+ 1ef:	e8 00 00 00 00       	callq  1f4 <barrettsPrivateers+0x1f4>
+ 1f4:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 1fb <barrettsPrivateers+0x1fb>
+ 1fb:	e8 00 00 00 00       	callq  200 <barrettsPrivateers+0x200>
+ 200:	bf 02 00 00 00       	mov    $0x2,%edi
+ 205:	e8 00 00 00 00       	callq  20a <barrettsPrivateers+0x20a>
+ 20a:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 211 <barrettsPrivateers+0x211>
+ 211:	e8 00 00 00 00       	callq  216 <barrettsPrivateers+0x216>
+ 216:	bf 01 00 00 00       	mov    $0x1,%edi
+ 21b:	e8 00 00 00 00       	callq  220 <barrettsPrivateers+0x220>
+ 220:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 227 <barrettsPrivateers+0x227>
+ 227:	e8 00 00 00 00       	callq  22c <barrettsPrivateers+0x22c>
+ 22c:	bf 02 00 00 00       	mov    $0x2,%edi
+ 231:	e8 00 00 00 00       	callq  236 <barrettsPrivateers+0x236>
+ 236:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 23d <barrettsPrivateers+0x23d>
+ 23d:	e8 00 00 00 00       	callq  242 <barrettsPrivateers+0x242>
+ 242:	bf 02 00 00 00       	mov    $0x2,%edi
+ 247:	e8 00 00 00 00       	callq  24c <barrettsPrivateers+0x24c>
+ 24c:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 253 <barrettsPrivateers+0x253>
+ 253:	e8 00 00 00 00       	callq  258 <barrettsPrivateers+0x258>
+ 258:	bf 02 00 00 00       	mov    $0x2,%edi
+ 25d:	e8 00 00 00 00       	callq  262 <barrettsPrivateers+0x262>
+ 262:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 269 <barrettsPrivateers+0x269>
+ 269:	e8 00 00 00 00       	callq  26e <barrettsPrivateers+0x26e>
+ 26e:	bf 02 00 00 00       	mov    $0x2,%edi
+ 273:	e8 00 00 00 00       	callq  278 <barrettsPrivateers+0x278>
+ 278:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 27f <barrettsPrivateers+0x27f>
+ 27f:	e8 00 00 00 00       	callq  284 <barrettsPrivateers+0x284>
+ 284:	bf 02 00 00 00       	mov    $0x2,%edi
+ 289:	e8 00 00 00 00       	callq  28e <barrettsPrivateers+0x28e>
+ 28e:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 295 <barrettsPrivateers+0x295>
+ 295:	e8 00 00 00 00       	callq  29a <barrettsPrivateers+0x29a>
+ 29a:	bf 02 00 00 00       	mov    $0x2,%edi
+ 29f:	e8 00 00 00 00       	callq  2a4 <barrettsPrivateers+0x2a4>
+ 2a4:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 2ab <barrettsPrivateers+0x2ab>
+ 2ab:	e8 00 00 00 00       	callq  2b0 <barrettsPrivateers+0x2b0>
+ 2b0:	bf 02 00 00 00       	mov    $0x2,%edi
+ 2b5:	e8 00 00 00 00       	callq  2ba <barrettsPrivateers+0x2ba>
+ 2ba:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 2c1 <barrettsPrivateers+0x2c1>
+ 2c1:	e8 00 00 00 00       	callq  2c6 <barrettsPrivateers+0x2c6>
+ 2c6:	bf 02 00 00 00       	mov    $0x2,%edi
+ 2cb:	e8 00 00 00 00       	callq  2d0 <barrettsPrivateers+0x2d0>
+ 2d0:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 2d7 <barrettsPrivateers+0x2d7>
+ 2d7:	e8 00 00 00 00       	callq  2dc <barrettsPrivateers+0x2dc>
+ 2dc:	bf 01 00 00 00       	mov    $0x1,%edi
+ 2e1:	e8 00 00 00 00       	callq  2e6 <barrettsPrivateers+0x2e6>
+ 2e6:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 2ed <barrettsPrivateers+0x2ed>
+ 2ed:	e8 00 00 00 00       	callq  2f2 <barrettsPrivateers+0x2f2>
+ 2f2:	bf 02 00 00 00       	mov    $0x2,%edi
+ 2f7:	e8 00 00 00 00       	callq  2fc <barrettsPrivateers+0x2fc>
+ 2fc:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 303 <barrettsPrivateers+0x303>
+ 303:	e8 00 00 00 00       	callq  308 <barrettsPrivateers+0x308>
+ 308:	bf 02 00 00 00       	mov    $0x2,%edi
+ 30d:	e8 00 00 00 00       	callq  312 <barrettsPrivateers+0x312>
+ 312:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 319 <barrettsPrivateers+0x319>
+ 319:	e8 00 00 00 00       	callq  31e <barrettsPrivateers+0x31e>
+ 31e:	bf 02 00 00 00       	mov    $0x2,%edi
+ 323:	e8 00 00 00 00       	callq  328 <barrettsPrivateers+0x328>
+ 328:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 32f <barrettsPrivateers+0x32f>
+ 32f:	e8 00 00 00 00       	callq  334 <barrettsPrivateers+0x334>
+ 334:	bf 02 00 00 00       	mov    $0x2,%edi
+ 339:	e8 00 00 00 00       	callq  33e <barrettsPrivateers+0x33e>
+ 33e:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 345 <barrettsPrivateers+0x345>
+ 345:	e8 00 00 00 00       	callq  34a <barrettsPrivateers+0x34a>
+ 34a:	bf 02 00 00 00       	mov    $0x2,%edi
+ 34f:	e8 00 00 00 00       	callq  354 <barrettsPrivateers+0x354>
+ 354:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 35b <barrettsPrivateers+0x35b>
+ 35b:	e8 00 00 00 00       	callq  360 <barrettsPrivateers+0x360>
+ 360:	bf 02 00 00 00       	mov    $0x2,%edi
+ 365:	e8 00 00 00 00       	callq  36a <barrettsPrivateers+0x36a>
+ 36a:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 371 <barrettsPrivateers+0x371>
+ 371:	e8 00 00 00 00       	callq  376 <barrettsPrivateers+0x376>
+ 376:	bf 02 00 00 00       	mov    $0x2,%edi
+ 37b:	e8 00 00 00 00       	callq  380 <barrettsPrivateers+0x380>
+ 380:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 387 <barrettsPrivateers+0x387>
+ 387:	e8 00 00 00 00       	callq  38c <barrettsPrivateers+0x38c>
+ 38c:	bf 02 00 00 00       	mov    $0x2,%edi
+ 391:	e8 00 00 00 00       	callq  396 <barrettsPrivateers+0x396>
+ 396:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 39d <barrettsPrivateers+0x39d>
+ 39d:	e8 00 00 00 00       	callq  3a2 <barrettsPrivateers+0x3a2>
+ 3a2:	bf 01 00 00 00       	mov    $0x1,%edi
+ 3a7:	e8 00 00 00 00       	callq  3ac <barrettsPrivateers+0x3ac>
+ 3ac:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 3b3 <barrettsPrivateers+0x3b3>
+ 3b3:	e8 00 00 00 00       	callq  3b8 <barrettsPrivateers+0x3b8>
+ 3b8:	bf 02 00 00 00       	mov    $0x2,%edi
+ 3bd:	e8 00 00 00 00       	callq  3c2 <barrettsPrivateers+0x3c2>
+ 3c2:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 3c9 <barrettsPrivateers+0x3c9>
+ 3c9:	e8 00 00 00 00       	callq  3ce <barrettsPrivateers+0x3ce>
+ 3ce:	bf 02 00 00 00       	mov    $0x2,%edi
+ 3d3:	e8 00 00 00 00       	callq  3d8 <barrettsPrivateers+0x3d8>
+ 3d8:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 3df <barrettsPrivateers+0x3df>
+ 3df:	e8 00 00 00 00       	callq  3e4 <barrettsPrivateers+0x3e4>
+ 3e4:	bf 02 00 00 00       	mov    $0x2,%edi
+ 3e9:	e8 00 00 00 00       	callq  3ee <barrettsPrivateers+0x3ee>
+ 3ee:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 3f5 <barrettsPrivateers+0x3f5>
+ 3f5:	e8 00 00 00 00       	callq  3fa <barrettsPrivateers+0x3fa>
+ 3fa:	bf 02 00 00 00       	mov    $0x2,%edi
+ 3ff:	e8 00 00 00 00       	callq  404 <barrettsPrivateers+0x404>
+ 404:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 40b <barrettsPrivateers+0x40b>
+ 40b:	e8 00 00 00 00       	callq  410 <barrettsPrivateers+0x410>
+ 410:	bf 02 00 00 00       	mov    $0x2,%edi
+ 415:	e8 00 00 00 00       	callq  41a <barrettsPrivateers+0x41a>
+ 41a:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 421 <barrettsPrivateers+0x421>
+ 421:	e8 00 00 00 00       	callq  426 <barrettsPrivateers+0x426>
+ 426:	bf 02 00 00 00       	mov    $0x2,%edi
+ 42b:	e8 00 00 00 00       	callq  430 <barrettsPrivateers+0x430>
+ 430:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 437 <barrettsPrivateers+0x437>
+ 437:	e8 00 00 00 00       	callq  43c <barrettsPrivateers+0x43c>
+ 43c:	bf 02 00 00 00       	mov    $0x2,%edi
+ 441:	e8 00 00 00 00       	callq  446 <barrettsPrivateers+0x446>
+ 446:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 44d <barrettsPrivateers+0x44d>
+ 44d:	e8 00 00 00 00       	callq  452 <barrettsPrivateers+0x452>
+ 452:	bf 02 00 00 00       	mov    $0x2,%edi
+ 457:	e8 00 00 00 00       	callq  45c <barrettsPrivateers+0x45c>
+ 45c:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 463 <barrettsPrivateers+0x463>
+ 463:	e8 00 00 00 00       	callq  468 <barrettsPrivateers+0x468>
+ 468:	bf 01 00 00 00       	mov    $0x1,%edi
+ 46d:	e8 00 00 00 00       	callq  472 <barrettsPrivateers+0x472>
+ 472:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 479 <barrettsPrivateers+0x479>
+ 479:	e8 00 00 00 00       	callq  47e <barrettsPrivateers+0x47e>
+ 47e:	bf 02 00 00 00       	mov    $0x2,%edi
+ 483:	e8 00 00 00 00       	callq  488 <barrettsPrivateers+0x488>
+ 488:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 48f <barrettsPrivateers+0x48f>
+ 48f:	e8 00 00 00 00       	callq  494 <barrettsPrivateers+0x494>
+ 494:	bf 02 00 00 00       	mov    $0x2,%edi
+ 499:	e8 00 00 00 00       	callq  49e <barrettsPrivateers+0x49e>
+ 49e:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 4a5 <barrettsPrivateers+0x4a5>
+ 4a5:	e8 00 00 00 00       	callq  4aa <barrettsPrivateers+0x4aa>
+ 4aa:	bf 02 00 00 00       	mov    $0x2,%edi
+ 4af:	e8 00 00 00 00       	callq  4b4 <barrettsPrivateers+0x4b4>
+ 4b4:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 4bb <barrettsPrivateers+0x4bb>
+ 4bb:	e8 00 00 00 00       	callq  4c0 <barrettsPrivateers+0x4c0>
+ 4c0:	bf 02 00 00 00       	mov    $0x2,%edi
+ 4c5:	e8 00 00 00 00       	callq  4ca <barrettsPrivateers+0x4ca>
+ 4ca:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 4d1 <barrettsPrivateers+0x4d1>
+ 4d1:	e8 00 00 00 00       	callq  4d6 <barrettsPrivateers+0x4d6>
+ 4d6:	bf 02 00 00 00       	mov    $0x2,%edi
+ 4db:	e8 00 00 00 00       	callq  4e0 <barrettsPrivateers+0x4e0>
+ 4e0:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 4e7 <barrettsPrivateers+0x4e7>
+ 4e7:	e8 00 00 00 00       	callq  4ec <barrettsPrivateers+0x4ec>
+ 4ec:	bf 02 00 00 00       	mov    $0x2,%edi
+ 4f1:	e8 00 00 00 00       	callq  4f6 <barrettsPrivateers+0x4f6>
+ 4f6:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 4fd <barrettsPrivateers+0x4fd>
+ 4fd:	e8 00 00 00 00       	callq  502 <barrettsPrivateers+0x502>
+ 502:	bf 02 00 00 00       	mov    $0x2,%edi
+ 507:	e8 00 00 00 00       	callq  50c <barrettsPrivateers+0x50c>
+ 50c:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 513 <barrettsPrivateers+0x513>
+ 513:	e8 00 00 00 00       	callq  518 <barrettsPrivateers+0x518>
+ 518:	bf 02 00 00 00       	mov    $0x2,%edi
+ 51d:	e8 00 00 00 00       	callq  522 <barrettsPrivateers+0x522>
+ 522:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 529 <barrettsPrivateers+0x529>
+ 529:	e8 00 00 00 00       	callq  52e <barrettsPrivateers+0x52e>
+ 52e:	bf 01 00 00 00       	mov    $0x1,%edi
+ 533:	e8 00 00 00 00       	callq  538 <barrettsPrivateers+0x538>
+ 538:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 53f <barrettsPrivateers+0x53f>
+ 53f:	e8 00 00 00 00       	callq  544 <barrettsPrivateers+0x544>
+ 544:	bf 02 00 00 00       	mov    $0x2,%edi
+ 549:	e8 00 00 00 00       	callq  54e <barrettsPrivateers+0x54e>
+ 54e:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 555 <barrettsPrivateers+0x555>
+ 555:	e8 00 00 00 00       	callq  55a <barrettsPrivateers+0x55a>
+ 55a:	bf 02 00 00 00       	mov    $0x2,%edi
+ 55f:	e8 00 00 00 00       	callq  564 <barrettsPrivateers+0x564>
+ 564:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 56b <barrettsPrivateers+0x56b>
+ 56b:	e8 00 00 00 00       	callq  570 <barrettsPrivateers+0x570>
+ 570:	bf 02 00 00 00       	mov    $0x2,%edi
+ 575:	e8 00 00 00 00       	callq  57a <barrettsPrivateers+0x57a>
+ 57a:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 581 <barrettsPrivateers+0x581>
+ 581:	e8 00 00 00 00       	callq  586 <barrettsPrivateers+0x586>
+ 586:	bf 02 00 00 00       	mov    $0x2,%edi
+ 58b:	e8 00 00 00 00       	callq  590 <barrettsPrivateers+0x590>
+ 590:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 597 <barrettsPrivateers+0x597>
+ 597:	e8 00 00 00 00       	callq  59c <barrettsPrivateers+0x59c>
+ 59c:	bf 02 00 00 00       	mov    $0x2,%edi
+ 5a1:	e8 00 00 00 00       	callq  5a6 <barrettsPrivateers+0x5a6>
+ 5a6:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 5ad <barrettsPrivateers+0x5ad>
+ 5ad:	e8 00 00 00 00       	callq  5b2 <barrettsPrivateers+0x5b2>
+ 5b2:	bf 02 00 00 00       	mov    $0x2,%edi
+ 5b7:	e8 00 00 00 00       	callq  5bc <barrettsPrivateers+0x5bc>
+ 5bc:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 5c3 <barrettsPrivateers+0x5c3>
+ 5c3:	e8 00 00 00 00       	callq  5c8 <barrettsPrivateers+0x5c8>
+ 5c8:	bf 02 00 00 00       	mov    $0x2,%edi
+ 5cd:	e8 00 00 00 00       	callq  5d2 <barrettsPrivateers+0x5d2>
+ 5d2:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 5d9 <barrettsPrivateers+0x5d9>
+ 5d9:	e8 00 00 00 00       	callq  5de <barrettsPrivateers+0x5de>
+ 5de:	bf 02 00 00 00       	mov    $0x2,%edi
+ 5e3:	e8 00 00 00 00       	callq  5e8 <barrettsPrivateers+0x5e8>
+ 5e8:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 5ef <barrettsPrivateers+0x5ef>
+ 5ef:	e8 00 00 00 00       	callq  5f4 <barrettsPrivateers+0x5f4>
+ 5f4:	bf 01 00 00 00       	mov    $0x1,%edi
+ 5f9:	e8 00 00 00 00       	callq  5fe <barrettsPrivateers+0x5fe>
+ 5fe:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 605 <barrettsPrivateers+0x605>
+ 605:	e8 00 00 00 00       	callq  60a <barrettsPrivateers+0x60a>
+ 60a:	bf 02 00 00 00       	mov    $0x2,%edi
+ 60f:	e8 00 00 00 00       	callq  614 <barrettsPrivateers+0x614>
+ 614:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 61b <barrettsPrivateers+0x61b>
+ 61b:	e8 00 00 00 00       	callq  620 <barrettsPrivateers+0x620>
+ 620:	bf 02 00 00 00       	mov    $0x2,%edi
+ 625:	e8 00 00 00 00       	callq  62a <barrettsPrivateers+0x62a>
+ 62a:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 631 <barrettsPrivateers+0x631>
+ 631:	e8 00 00 00 00       	callq  636 <barrettsPrivateers+0x636>
+ 636:	bf 02 00 00 00       	mov    $0x2,%edi
+ 63b:	e8 00 00 00 00       	callq  640 <barrettsPrivateers+0x640>
+ 640:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 647 <barrettsPrivateers+0x647>
+ 647:	e8 00 00 00 00       	callq  64c <barrettsPrivateers+0x64c>
+ 64c:	bf 02 00 00 00       	mov    $0x2,%edi
+ 651:	e8 00 00 00 00       	callq  656 <barrettsPrivateers+0x656>
+ 656:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 65d <barrettsPrivateers+0x65d>
+ 65d:	e8 00 00 00 00       	callq  662 <barrettsPrivateers+0x662>
+ 662:	bf 03 00 00 00       	mov    $0x3,%edi
+ 667:	e8 00 00 00 00       	callq  66c <barrettsPrivateers+0x66c>
+ 66c:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 673 <barrettsPrivateers+0x673>
+ 673:	e8 00 00 00 00       	callq  678 <barrettsPrivateers+0x678>
+ 678:	bf 03 00 00 00       	mov    $0x3,%edi
+ 67d:	e8 00 00 00 00       	callq  682 <barrettsPrivateers+0x682>
+ 682:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 689 <barrettsPrivateers+0x689>
+ 689:	e8 00 00 00 00       	callq  68e <barrettsPrivateers+0x68e>
+ 68e:	bf 03 00 00 00       	mov    $0x3,%edi
+ 693:	e8 00 00 00 00       	callq  698 <barrettsPrivateers+0x698>
+ 698:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 69f <barrettsPrivateers+0x69f>
+ 69f:	e8 00 00 00 00       	callq  6a4 <barrettsPrivateers+0x6a4>
+ 6a4:	bf 03 00 00 00       	mov    $0x3,%edi
+ 6a9:	e8 00 00 00 00       	callq  6ae <barrettsPrivateers+0x6ae>
+ 6ae:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 6b5 <barrettsPrivateers+0x6b5>
+ 6b5:	e8 00 00 00 00       	callq  6ba <barrettsPrivateers+0x6ba>
+ 6ba:	bf 02 00 00 00       	mov    $0x2,%edi
+ 6bf:	e8 00 00 00 00       	callq  6c4 <barrettsPrivateers+0x6c4>
+ 6c4:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 6cb <barrettsPrivateers+0x6cb>
+ 6cb:	e8 00 00 00 00       	callq  6d0 <barrettsPrivateers+0x6d0>
+ 6d0:	bf 03 00 00 00       	mov    $0x3,%edi
+ 6d5:	e8 00 00 00 00       	callq  6da <barrettsPrivateers+0x6da>
+ 6da:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 6e1 <barrettsPrivateers+0x6e1>
+ 6e1:	e8 00 00 00 00       	callq  6e6 <barrettsPrivateers+0x6e6>
+ 6e6:	bf 03 00 00 00       	mov    $0x3,%edi
+ 6eb:	e8 00 00 00 00       	callq  6f0 <barrettsPrivateers+0x6f0>
+ 6f0:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 6f7 <barrettsPrivateers+0x6f7>
+ 6f7:	e8 00 00 00 00       	callq  6fc <barrettsPrivateers+0x6fc>
+ 6fc:	bf 03 00 00 00       	mov    $0x3,%edi
+ 701:	e8 00 00 00 00       	callq  706 <barrettsPrivateers+0x706>
+ 706:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 70d <barrettsPrivateers+0x70d>
+ 70d:	e8 00 00 00 00       	callq  712 <barrettsPrivateers+0x712>
+ 712:	bf 04 00 00 00       	mov    $0x4,%edi
+ 717:	e8 00 00 00 00       	callq  71c <barrettsPrivateers+0x71c>
+ 71c:	48 8d 3d 00 00 00 00 	lea    0x0(%rip),%rdi        # 723 <barrettsPrivateers+0x723>
+ 723:	e8 00 00 00 00       	callq  728 <barrettsPrivateers+0x728>
+ 728:	90                   	nop
+ 729:	5d                   	pop    %rbp
+ 72a:	c3                   	retq   
+
+Disassembly of section .rodata:
+
+0000000000000000 <.rodata>:
+   0:	0a 0a                	or     (%rdx),%cl
+   2:	3c 3c                	cmp    $0x3c,%al
+   4:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+   8:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+   c:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+  10:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+  14:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+  18:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+  1c:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+  20:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+  24:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+  28:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+  2c:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+  30:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+  34:	3e 3e 00 00          	ds add %al,%ds:(%rax)
+  38:	20 20                	and    %ah,(%rax)
+  3a:	20 20                	and    %ah,(%rax)
+  3c:	20 20                	and    %ah,(%rax)
+  3e:	20 20                	and    %ah,(%rax)
+  40:	20 42 61             	and    %al,0x61(%rdx)
+  43:	72 72                	jb     b7 <.rodata+0xb7>
+  45:	65 74 74             	gs je  bc <.rodata+0xbc>
+  48:	27                   	(bad)  
+  49:	73 20                	jae    6b <.rodata+0x6b>
+  4b:	50                   	push   %rax
+  4c:	72 69                	jb     b7 <.rodata+0xb7>
+  4e:	76 61                	jbe    b1 <.rodata+0xb1>
+  50:	74 65                	je     b7 <.rodata+0xb7>
+  52:	65 72 73             	gs jb  c8 <.rodata+0xc8>
+  55:	20 62 79             	and    %ah,0x79(%rdx)
+  58:	20 53 74             	and    %dl,0x74(%rbx)
+  5b:	61                   	(bad)  
+  5c:	6e                   	outsb  %ds:(%rsi),(%dx)
+  5d:	20 52 6f             	and    %dl,0x6f(%rdx)
+  60:	67 65 72 73          	addr32 gs jb d7 <.rodata+0xd7>
+  64:	20 20                	and    %ah,(%rax)
+  66:	20 20                	and    %ah,(%rax)
+  68:	20 20                	and    %ah,(%rax)
+  6a:	20 20                	and    %ah,(%rax)
+  6c:	0a 00                	or     (%rax),%al
+  6e:	4f 68 2c 20 74 68    	rex.WRXB pushq $0x6874202c
+  74:	65 20 79 65          	and    %bh,%gs:0x65(%rcx)
+  78:	61                   	(bad)  
+  79:	72 20                	jb     9b <.rodata+0x9b>
+  7b:	77 61                	ja     de <.rodata+0xde>
+  7d:	73 20                	jae    9f <.rodata+0x9f>
+  7f:	31 37                	xor    %esi,(%rdi)
+  81:	37                   	(bad)  
+  82:	38 00                	cmp    %al,(%rax)
+  84:	00 00                	add    %al,(%rax)
+  86:	00 00                	add    %al,(%rax)
+  88:	28 48 6f             	sub    %cl,0x6f(%rax)
+  8b:	77 20                	ja     ad <.rodata+0xad>
+  8d:	49 20 77 69          	rex.WB and %sil,0x69(%r15)
+  91:	73 68                	jae    fb <.rodata+0xfb>
+  93:	20 49 20             	and    %cl,0x20(%rcx)
+  96:	77 61                	ja     f9 <.rodata+0xf9>
+  98:	73 20                	jae    ba <.rodata+0xba>
+  9a:	69 6e 20 73 68 65 72 	imul   $0x72656873,0x20(%rsi),%ebp
+  a1:	62 72 6f 6f 6b       	(bad)  {%k7}
+  a6:	65 20 6e 6f          	and    %ch,%gs:0x6f(%rsi)
+  aa:	77 21                	ja     cd <.rodata+0xcd>
+  ac:	29 00                	sub    %eax,(%rax)
+  ae:	00 00                	add    %al,(%rax)
+  b0:	41 20 6c 65 74       	and    %bpl,0x74(%r13,%riz,2)
+  b5:	74 65                	je     11c <.rodata+0x11c>
+  b7:	72 20                	jb     d9 <.rodata+0xd9>
+  b9:	6f                   	outsl  %ds:(%rsi),(%dx)
+  ba:	66 20 6d 61          	data16 and %ch,0x61(%rbp)
+  be:	72 71                	jb     131 <.rodata+0x131>
+  c0:	75 65                	jne    127 <.rodata+0x127>
+  c2:	20 63 61             	and    %ah,0x61(%rbx)
+  c5:	6d                   	insl   (%dx),%es:(%rdi)
+  c6:	65 20 66 72          	and    %ah,%gs:0x72(%rsi)
+  ca:	6f                   	outsl  %ds:(%rsi),(%dx)
+  cb:	6d                   	insl   (%dx),%es:(%rdi)
+  cc:	20 74 68 65          	and    %dh,0x65(%rax,%rbp,2)
+  d0:	20 6b 69             	and    %ch,0x69(%rbx)
+  d3:	6e                   	outsb  %ds:(%rsi),(%dx)
+  d4:	67 00 00             	add    %al,(%eax)
+  d7:	00 54 6f 20          	add    %dl,0x20(%rdi,%rbp,2)
+  db:	74 68                	je     145 <.rodata+0x145>
+  dd:	65 20 73 63          	and    %dh,%gs:0x63(%rbx)
+  e1:	75 6d                	jne    150 <.rodata+0x150>
+  e3:	6d                   	insl   (%dx),%es:(%rdi)
+  e4:	69 65 73 74 20 76 65 	imul   $0x65762074,0x73(%rbp),%esp
+  eb:	73 73                	jae    160 <.rodata+0x160>
+  ed:	65 6c                	gs insb (%dx),%es:(%rdi)
+  ef:	20 49 27             	and    %cl,0x27(%rcx)
+  f2:	64 20 65 76          	and    %ah,%fs:0x76(%rbp)
+  f6:	65 72 20             	gs jb  119 <.rodata+0x119>
+  f9:	73 65                	jae    160 <.rodata+0x160>
+  fb:	65 6e                	outsb  %gs:(%rsi),(%dx)
+  fd:	0a 00                	or     (%rax),%al
+  ff:	47 6f                	rex.RXB outsl %ds:(%rsi),(%dx)
+ 101:	64 20 64 61 6d       	and    %ah,%fs:0x6d(%rcx,%riz,2)
+ 106:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 107:	20 74 68 65          	and    %dh,0x65(%rax,%rbp,2)
+ 10b:	6d                   	insl   (%dx),%es:(%rdi)
+ 10c:	20 61 6c             	and    %ah,0x6c(%rcx)
+ 10f:	6c                   	insb   (%dx),%es:(%rdi)
+ 110:	21 00                	and    %eax,(%rax)
+ 112:	00 00                	add    %al,(%rax)
+ 114:	00 00                	add    %al,(%rax)
+ 116:	00 00                	add    %al,(%rax)
+ 118:	49 20 77 61          	rex.WB and %sil,0x61(%r15)
+ 11c:	73 20                	jae    13e <.rodata+0x13e>
+ 11e:	74 6f                	je     18f <.rodata+0x18f>
+ 120:	6c                   	insb   (%dx),%es:(%rdi)
+ 121:	64 20 77 65          	and    %dh,%fs:0x65(%rdi)
+ 125:	27                   	(bad)  
+ 126:	64 20 63 72          	and    %ah,%fs:0x72(%rbx)
+ 12a:	75 69                	jne    195 <.rodata+0x195>
+ 12c:	73 65                	jae    193 <.rodata+0x193>
+ 12e:	20 74 68 65          	and    %dh,0x65(%rax,%rbp,2)
+ 132:	20 73 65             	and    %dh,0x65(%rbx)
+ 135:	61                   	(bad)  
+ 136:	73 20                	jae    158 <.rodata+0x158>
+ 138:	66 6f                	outsw  %ds:(%rsi),(%dx)
+ 13a:	72 20                	jb     15c <.rodata+0x15c>
+ 13c:	41 6d                	rex.B insl (%dx),%es:(%rdi)
+ 13e:	65 72 69             	gs jb  1aa <.rodata+0x1aa>
+ 141:	63 61 6e             	movslq 0x6e(%rcx),%esp
+ 144:	20 67 6f             	and    %ah,0x6f(%rdi)
+ 147:	6c                   	insb   (%dx),%es:(%rdi)
+ 148:	64 00 00             	add    %al,%fs:(%rax)
+ 14b:	00 00                	add    %al,(%rax)
+ 14d:	00 00                	add    %al,(%rax)
+ 14f:	00 57 65             	add    %dl,0x65(%rdi)
+ 152:	27                   	(bad)  
+ 153:	64 20 66 69          	and    %ah,%fs:0x69(%rsi)
+ 157:	72 65                	jb     1be <.rodata+0x1be>
+ 159:	20 6e 6f             	and    %ch,0x6f(%rsi)
+ 15c:	20 67 75             	and    %ah,0x75(%rdi)
+ 15f:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 160:	73 2d                	jae    18f <.rodata+0x18f>
+ 162:	73 68                	jae    1cc <.rodata+0x1cc>
+ 164:	65 64 20 6e 6f       	gs and %ch,%fs:0x6f(%rsi)
+ 169:	20 74 65 61          	and    %dh,0x61(%rbp,%riz,2)
+ 16d:	72 73                	jb     1e2 <.rodata+0x1e2>
+ 16f:	00 4e 6f             	add    %cl,0x6f(%rsi)
+ 172:	77 20                	ja     194 <.rodata+0x194>
+ 174:	49 27                	rex.WB (bad) 
+ 176:	6d                   	insl   (%dx),%es:(%rdi)
+ 177:	20 61 20             	and    %ah,0x20(%rcx)
+ 17a:	62 72 6f 6b 65       	(bad)  {%k3}
+ 17f:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 180:	20 6d 61             	and    %ch,0x61(%rbp)
+ 183:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 184:	20 6f 6e             	and    %ch,0x6e(%rdi)
+ 187:	20 61 20             	and    %ah,0x20(%rcx)
+ 18a:	48 61                	rex.W (bad) 
+ 18c:	6c                   	insb   (%dx),%es:(%rdi)
+ 18d:	69 66 61 78 20 70 69 	imul   $0x69702078,0x61(%rsi),%esp
+ 194:	65 72 00             	gs jb  197 <.rodata+0x197>
+ 197:	00 54 68 65          	add    %dl,0x65(%rax,%rbp,2)
+ 19b:	20 6c 61 73          	and    %ch,0x73(%rcx,%riz,2)
+ 19f:	74 20                	je     1c1 <.rodata+0x1c1>
+ 1a1:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 1a2:	66 20 42 61          	data16 and %al,0x61(%rdx)
+ 1a6:	72 72                	jb     21a <.rodata+0x21a>
+ 1a8:	65 74 74             	gs je  21f <.rodata+0x21f>
+ 1ab:	27                   	(bad)  
+ 1ac:	73 20                	jae    1ce <.rodata+0x1ce>
+ 1ae:	50                   	push   %rax
+ 1af:	72 69                	jb     21a <.rodata+0x21a>
+ 1b1:	76 61                	jbe    214 <.rodata+0x214>
+ 1b3:	74 65                	je     21a <.rodata+0x21a>
+ 1b5:	65 72 73             	gs jb  22b <.rodata+0x22b>
+ 1b8:	0a 00                	or     (%rax),%al
+ 1ba:	00 00                	add    %al,(%rax)
+ 1bc:	00 00                	add    %al,(%rax)
+ 1be:	00 00                	add    %al,(%rax)
+ 1c0:	4f 68 2c 20 45 6c    	rex.WRXB pushq $0x6c45202c
+ 1c6:	63 69 64             	movslq 0x64(%rcx),%ebp
+ 1c9:	20 42 61             	and    %al,0x61(%rdx)
+ 1cc:	72 72                	jb     240 <.rodata+0x240>
+ 1ce:	65 74 74             	gs je  245 <.rodata+0x245>
+ 1d1:	20 63 72             	and    %ah,0x72(%rbx)
+ 1d4:	69 65 64 20 74 68 65 	imul   $0x65687420,0x64(%rbp),%esp
+ 1db:	20 74 6f 77          	and    %dh,0x77(%rdi,%rbp,2)
+ 1df:	6e                   	outsb  %ds:(%rsi),(%dx)
+	...
+ 1e8:	46 6f                	rex.RX outsl %ds:(%rsi),(%dx)
+ 1ea:	72 20                	jb     20c <.rodata+0x20c>
+ 1ec:	74 77                	je     265 <.rodata+0x265>
+ 1ee:	65 6e                	outsb  %gs:(%rsi),(%dx)
+ 1f0:	74 79                	je     26b <.rodata+0x26b>
+ 1f2:	20 62 72             	and    %ah,0x72(%rdx)
+ 1f5:	61                   	(bad)  
+ 1f6:	76 65                	jbe    25d <.rodata+0x25d>
+ 1f8:	20 6d 65             	and    %ch,0x65(%rbp)
+ 1fb:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 1fc:	20 61 6c             	and    %ah,0x6c(%rcx)
+ 1ff:	6c                   	insb   (%dx),%es:(%rdi)
+ 200:	20 66 69             	and    %ah,0x69(%rsi)
+ 203:	73 68                	jae    26d <.rodata+0x26d>
+ 205:	65 72 6d             	gs jb  275 <.rodata+0x275>
+ 208:	65 6e                	outsb  %gs:(%rsi),(%dx)
+ 20a:	20 77 68             	and    %dh,0x68(%rdi)
+ 20d:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 20e:	00 00                	add    %al,(%rax)
+ 210:	57                   	push   %rdi
+ 211:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 212:	75 6c                	jne    280 <.rodata+0x280>
+ 214:	64 20 6d 61          	and    %ch,%fs:0x61(%rbp)
+ 218:	6b 65 20 66          	imul   $0x66,0x20(%rbp),%esp
+ 21c:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 21d:	72 20                	jb     23f <.rodata+0x23f>
+ 21f:	68 69 6d 20 74       	pushq  $0x74206d69
+ 224:	68 65 20 41 6e       	pushq  $0x6e412065
+ 229:	74 65                	je     290 <.rodata+0x290>
+ 22b:	6c                   	insb   (%dx),%es:(%rdi)
+ 22c:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 22d:	70 65                	jo     294 <.rodata+0x294>
+ 22f:	27                   	(bad)  
+ 230:	73 20                	jae    252 <.rodata+0x252>
+ 232:	63 72 65             	movslq 0x65(%rdx),%esi
+ 235:	77 0a                	ja     241 <.rodata+0x241>
+ 237:	00 54 68 65          	add    %dl,0x65(%rax,%rbp,2)
+ 23b:	20 41 6e             	and    %al,0x6e(%rcx)
+ 23e:	74 65                	je     2a5 <.rodata+0x2a5>
+ 240:	6c                   	insb   (%dx),%es:(%rdi)
+ 241:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 242:	70 65                	jo     2a9 <.rodata+0x2a9>
+ 244:	20 73 6c             	and    %dh,0x6c(%rbx)
+ 247:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 248:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 249:	70 20                	jo     26b <.rodata+0x26b>
+ 24b:	77 61                	ja     2ae <.rodata+0x2ae>
+ 24d:	73 20                	jae    26f <.rodata+0x26f>
+ 24f:	61                   	(bad)  
+ 250:	20 73 69             	and    %dh,0x69(%rbx)
+ 253:	63 6b 65             	movslq 0x65(%rbx),%ebp
+ 256:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 257:	69 6e 67 20 73 69 67 	imul   $0x67697320,0x67(%rsi),%ebp
+ 25e:	68 74 2c 00 00       	pushq  $0x2c74
+ 263:	00 00                	add    %al,(%rax)
+ 265:	00 00                	add    %al,(%rax)
+ 267:	00 53 68             	add    %dl,0x68(%rbx)
+ 26a:	65 27                	gs (bad) 
+ 26c:	64 20 61 20          	and    %ah,%fs:0x20(%rcx)
+ 270:	6c                   	insb   (%dx),%es:(%rdi)
+ 271:	69 73 74 20 74 6f 20 	imul   $0x206f7420,0x74(%rbx),%esi
+ 278:	74 68                	je     2e2 <.rodata+0x2e2>
+ 27a:	65 20 70 6f          	and    %dh,%gs:0x6f(%rax)
+ 27e:	72 74                	jb     2f4 <.rodata+0x2f4>
+ 280:	20 61 6e             	and    %ah,0x6e(%rcx)
+ 283:	64 20 68 65          	and    %ch,%fs:0x65(%rax)
+ 287:	72 20                	jb     2a9 <.rodata+0x2a9>
+ 289:	73 61                	jae    2ec <.rodata+0x2ec>
+ 28b:	69 6c 73 20 69 6e 20 	imul   $0x72206e69,0x20(%rbx,%rsi,2),%ebp
+ 292:	72 
+ 293:	61                   	(bad)  
+ 294:	67 73 00             	addr32 jae 297 <.rodata+0x297>
+ 297:	00 41 6e             	add    %al,0x6e(%rcx)
+ 29a:	64 20 74 68 65       	and    %dh,%fs:0x65(%rax,%rbp,2)
+ 29f:	20 63 6f             	and    %ah,0x6f(%rbx)
+ 2a2:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 2a3:	6b 20 69             	imul   $0x69,(%rax),%esp
+ 2a6:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 2a7:	20 73 63             	and    %dh,0x63(%rbx)
+ 2aa:	75 70                	jne    31c <.rodata+0x31c>
+ 2ac:	70 65                	jo     313 <.rodata+0x313>
+ 2ae:	72 73                	jb     323 <.rodata+0x323>
+ 2b0:	20 77 69             	and    %dh,0x69(%rdi)
+ 2b3:	74 68                	je     31d <.rodata+0x31d>
+ 2b5:	20 74 68 65          	and    %dh,0x65(%rax,%rbp,2)
+ 2b9:	20 73 74             	and    %dh,0x74(%rbx)
+ 2bc:	61                   	(bad)  
+ 2bd:	67 67 65 72 73       	addr32 addr32 gs jb 335 <.rodata+0x335>
+ 2c2:	20 61 6e             	and    %ah,0x6e(%rcx)
+ 2c5:	64 20 74 68 65       	and    %dh,%fs:0x65(%rax,%rbp,2)
+ 2ca:	20 6a 61             	and    %ch,0x61(%rdx)
+ 2cd:	67 73 0a             	addr32 jae 2da <.rodata+0x2da>
+	...
+ 2d8:	4f 6e                	rex.WRXB outsb %ds:(%rsi),(%dx)
+ 2da:	20 74 68 65          	and    %dh,0x65(%rax,%rbp,2)
+ 2de:	20 4b 69             	and    %cl,0x69(%rbx)
+ 2e1:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 2e2:	67 27                	addr32 (bad) 
+ 2e4:	73 20                	jae    306 <.rodata+0x306>
+ 2e6:	62                   	(bad)  
+ 2e7:	69 72 74 68 64 61 79 	imul   $0x79616468,0x74(%rdx),%esi
+ 2ee:	20 77 65             	and    %dh,0x65(%rdi)
+ 2f1:	20 70 75             	and    %dh,0x75(%rax)
+ 2f4:	74 20                	je     316 <.rodata+0x316>
+ 2f6:	74 6f                	je     367 <.rodata+0x367>
+ 2f8:	20 73 65             	and    %dh,0x65(%rbx)
+ 2fb:	61                   	(bad)  
+ 2fc:	2c 00                	sub    $0x0,%al
+ 2fe:	00 00                	add    %al,(%rax)
+ 300:	57                   	push   %rdi
+ 301:	65 20 77 65          	and    %dh,%gs:0x65(%rdi)
+ 305:	72 65                	jb     36c <.rodata+0x36c>
+ 307:	20 39                	and    %bh,(%rcx)
+ 309:	31 20                	xor    %esp,(%rax)
+ 30b:	64 61                	fs (bad) 
+ 30d:	79 73                	jns    382 <.rodata+0x382>
+ 30f:	20 74 6f 20          	and    %dh,0x20(%rdi,%rbp,2)
+ 313:	4d 6f                	rex.WRB outsl %ds:(%rsi),(%dx)
+ 315:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 316:	74 65                	je     37d <.rodata+0x37d>
+ 318:	67 6f                	outsl  %ds:(%esi),(%dx)
+ 31a:	20 42 61             	and    %al,0x61(%rdx)
+ 31d:	79 00                	jns    31f <.rodata+0x31f>
+ 31f:	00 50 75             	add    %dl,0x75(%rax)
+ 322:	6d                   	insl   (%dx),%es:(%rdi)
+ 323:	70 69                	jo     38e <.rodata+0x38e>
+ 325:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 326:	67 20 6c 69 6b       	and    %ch,0x6b(%ecx,%ebp,2)
+ 32b:	65 20 6d 61          	and    %ch,%gs:0x61(%rbp)
+ 32f:	64 6d                	fs insl (%dx),%es:(%rdi)
+ 331:	65 6e                	outsb  %gs:(%rsi),(%dx)
+ 333:	20 61 6c             	and    %ah,0x6c(%rcx)
+ 336:	6c                   	insb   (%dx),%es:(%rdi)
+ 337:	20 74 68 65          	and    %dh,0x65(%rax,%rbp,2)
+ 33b:	20 77 61             	and    %dh,0x61(%rdi)
+ 33e:	79 0a                	jns    34a <.rodata+0x34a>
+	...
+ 348:	4f 6e                	rex.WRXB outsb %ds:(%rsi),(%dx)
+ 34a:	20 74 68 65          	and    %dh,0x65(%rax,%rbp,2)
+ 34e:	20 39                	and    %bh,(%rcx)
+ 350:	36 74 68             	ss je  3bb <.rodata+0x3bb>
+ 353:	20 64 61 79          	and    %ah,0x79(%rcx,%riz,2)
+ 357:	20 77 65             	and    %dh,0x65(%rdi)
+ 35a:	20 73 61             	and    %dh,0x61(%rbx)
+ 35d:	69 6c 65 64 20 61 67 	imul   $0x61676120,0x64(%rbp,%riz,2),%ebp
+ 364:	61 
+ 365:	69 6e 00 57 68 65 6e 	imul   $0x6e656857,0x0(%rsi),%ebp
+ 36c:	20 61 20             	and    %ah,0x20(%rcx)
+ 36f:	62                   	(bad)  
+ 370:	6c                   	insb   (%dx),%es:(%rdi)
+ 371:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 372:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 373:	64 79 20             	fs jns 396 <.rodata+0x396>
+ 376:	67 72 65             	addr32 jb 3de <.rodata+0x3de>
+ 379:	61                   	(bad)  
+ 37a:	74 20                	je     39c <.rodata+0x39c>
+ 37c:	59                   	pop    %rcx
+ 37d:	61                   	(bad)  
+ 37e:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 37f:	6b 65 65 20          	imul   $0x20,0x65(%rbp),%esp
+ 383:	68 6f 76 65 20       	pushq  $0x2065766f
+ 388:	69 6e 20 73 69 67 68 	imul   $0x68676973,0x20(%rsi),%ebp
+ 38f:	74 00                	je     391 <.rodata+0x391>
+ 391:	00 00                	add    %al,(%rax)
+ 393:	00 00                	add    %al,(%rax)
+ 395:	00 00                	add    %al,(%rax)
+ 397:	00 57 69             	add    %dl,0x69(%rdi)
+ 39a:	74 68                	je     404 <.rodata+0x404>
+ 39c:	20 6f 75             	and    %ch,0x75(%rdi)
+ 39f:	72 20                	jb     3c1 <.rodata+0x3c1>
+ 3a1:	63 72 61             	movslq 0x61(%rdx),%esi
+ 3a4:	63 6b 65             	movslq 0x65(%rbx),%ebp
+ 3a7:	64 20 66 6f          	and    %ah,%fs:0x6f(%rsi)
+ 3ab:	75 72                	jne    41f <.rodata+0x41f>
+ 3ad:	20 70 6f             	and    %dh,0x6f(%rax)
+ 3b0:	75 6e                	jne    420 <.rodata+0x420>
+ 3b2:	64 65 72 73          	fs gs jb 429 <.rodata+0x429>
+ 3b6:	20 77 65             	and    %dh,0x65(%rdi)
+ 3b9:	20 6d 61             	and    %ch,0x61(%rbp)
+ 3bc:	64 65 20 74 6f 20    	fs and %dh,%gs:0x20(%rdi,%rbp,2)
+ 3c2:	66 69 67 68 74 0a    	imul   $0xa74,0x68(%rdi),%sp
+	...
+ 3d0:	54                   	push   %rsp
+ 3d1:	68 65 20 59 61       	pushq  $0x61592065
+ 3d6:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 3d7:	6b 65 65 20          	imul   $0x20,0x65(%rbp),%esp
+ 3db:	6c                   	insb   (%dx),%es:(%rdi)
+ 3dc:	61                   	(bad)  
+ 3dd:	79 20                	jns    3ff <.rodata+0x3ff>
+ 3df:	6c                   	insb   (%dx),%es:(%rdi)
+ 3e0:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 3e1:	77 20                	ja     403 <.rodata+0x403>
+ 3e3:	64 6f                	outsl  %fs:(%rsi),(%dx)
+ 3e5:	77 6e                	ja     455 <.rodata+0x455>
+ 3e7:	20 77 69             	and    %dh,0x69(%rdi)
+ 3ea:	74 68                	je     454 <.rodata+0x454>
+ 3ec:	20 67 6f             	and    %ah,0x6f(%rdi)
+ 3ef:	6c                   	insb   (%dx),%es:(%rdi)
+ 3f0:	64 00 00             	add    %al,%fs:(%rax)
+ 3f3:	00 00                	add    %al,(%rax)
+ 3f5:	00 00                	add    %al,(%rax)
+ 3f7:	00 53 68             	add    %dl,0x68(%rbx)
+ 3fa:	65 20 77 61          	and    %dh,%gs:0x61(%rdi)
+ 3fe:	73 20                	jae    420 <.rodata+0x420>
+ 400:	62 72 6f 61 64       	(bad)  {%k1}
+ 405:	20 61 6e             	and    %ah,0x6e(%rcx)
+ 408:	64 20 66 61          	and    %ah,%fs:0x61(%rsi)
+ 40c:	74 20                	je     42e <.rodata+0x42e>
+ 40e:	61                   	(bad)  
+ 40f:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 410:	64 20 6c 6f 6f       	and    %ch,%fs:0x6f(%rdi,%rbp,2)
+ 415:	73 65                	jae    47c <.rodata+0x47c>
+ 417:	20 69 6e             	and    %ch,0x6e(%rcx)
+ 41a:	20 74 68 65          	and    %dh,0x65(%rax,%rbp,2)
+ 41e:	20 73 74             	and    %dh,0x74(%rbx)
+ 421:	61                   	(bad)  
+ 422:	79 73                	jns    497 <.rodata+0x497>
+ 424:	00 00                	add    %al,(%rax)
+ 426:	00 00                	add    %al,(%rax)
+ 428:	42 75 74             	rex.X jne 49f <.rodata+0x49f>
+ 42b:	20 74 6f 20          	and    %dh,0x20(%rdi,%rbp,2)
+ 42f:	63 61 74             	movslq 0x74(%rcx),%esp
+ 432:	63 68 20             	movslq 0x20(%rax),%ebp
+ 435:	68 65 72 20 74       	pushq  $0x74207265
+ 43a:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 43b:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 43c:	6b 20 74             	imul   $0x74,(%rax),%esp
+ 43f:	68 65 20 41 6e       	pushq  $0x6e412065
+ 444:	74 65                	je     4ab <.rodata+0x4ab>
+ 446:	6c                   	insb   (%dx),%es:(%rdi)
+ 447:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 448:	70 65                	jo     4af <.rodata+0x4af>
+ 44a:	20 74 77 6f          	and    %dh,0x6f(%rdi,%rsi,2)
+ 44e:	20 77 68             	and    %dh,0x68(%rdi)
+ 451:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 452:	6c                   	insb   (%dx),%es:(%rdi)
+ 453:	65 20 64 61 79       	and    %ah,%gs:0x79(%rcx,%riz,2)
+ 458:	73 0a                	jae    464 <.rodata+0x464>
+ 45a:	00 00                	add    %al,(%rax)
+ 45c:	00 00                	add    %al,(%rax)
+ 45e:	00 00                	add    %al,(%rax)
+ 460:	54                   	push   %rsp
+ 461:	68 65 6e 20 61       	pushq  $0x61206e65
+ 466:	74 20                	je     488 <.rodata+0x488>
+ 468:	6c                   	insb   (%dx),%es:(%rdi)
+ 469:	65 6e                	outsb  %gs:(%rsi),(%dx)
+ 46b:	67 74 68             	addr32 je 4d6 <.rodata+0x4d6>
+ 46e:	20 77 65             	and    %dh,0x65(%rdi)
+ 471:	20 73 74             	and    %dh,0x74(%rbx)
+ 474:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 475:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 476:	64 20 74 77 6f       	and    %dh,%fs:0x6f(%rdi,%rsi,2)
+ 47b:	20 63 61             	and    %ah,0x61(%rbx)
+ 47e:	62                   	(bad)  
+ 47f:	6c                   	insb   (%dx),%es:(%rdi)
+ 480:	65 73 20             	gs jae 4a3 <.rodata+0x4a3>
+ 483:	61                   	(bad)  
+ 484:	77 61                	ja     4e7 <.rodata+0x4e7>
+ 486:	79 00                	jns    488 <.rodata+0x488>
+ 488:	4f 75 72             	rex.WRXB jne 4fd <.rodata+0x4fd>
+ 48b:	20 63 72             	and    %ah,0x72(%rbx)
+ 48e:	61                   	(bad)  
+ 48f:	63 6b 65             	movslq 0x65(%rbx),%ebp
+ 492:	64 20 66 6f          	and    %ah,%fs:0x6f(%rsi)
+ 496:	75 72                	jne    50a <.rodata+0x50a>
+ 498:	20 70 6f             	and    %dh,0x6f(%rax)
+ 49b:	75 6e                	jne    50b <.rodata+0x50b>
+ 49d:	64 65 72 73          	fs gs jb 514 <.rodata+0x514>
+ 4a1:	20 6d 61             	and    %ch,0x61(%rbp)
+ 4a4:	64 65 20 61 6e       	fs and %ah,%gs:0x6e(%rcx)
+ 4a9:	20 61 77             	and    %ah,0x77(%rcx)
+ 4ac:	66 75 6c             	data16 jne 51b <.rodata+0x51b>
+ 4af:	20 64 69 6e          	and    %ah,0x6e(%rcx,%rbp,2)
+ 4b3:	00 00                	add    %al,(%rax)
+ 4b5:	00 00                	add    %al,(%rax)
+ 4b7:	00 42 75             	add    %al,0x75(%rdx)
+ 4ba:	74 20                	je     4dc <.rodata+0x4dc>
+ 4bc:	77 69                	ja     527 <.rodata+0x527>
+ 4be:	74 68                	je     528 <.rodata+0x528>
+ 4c0:	20 6f 6e             	and    %ch,0x6e(%rdi)
+ 4c3:	65 20 66 61          	and    %ah,%gs:0x61(%rsi)
+ 4c7:	74 20                	je     4e9 <.rodata+0x4e9>
+ 4c9:	62 61 6c 6c 20       	(bad)  {%k4}
+ 4ce:	74 68                	je     538 <.rodata+0x538>
+ 4d0:	65 20 59 61          	and    %bl,%gs:0x61(%rcx)
+ 4d4:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 4d5:	6b 20 73             	imul   $0x73,(%rax),%esp
+ 4d8:	74 6f                	je     549 <.rodata+0x549>
+ 4da:	76 65                	jbe    541 <.rodata+0x541>
+ 4dc:	20 75 73             	and    %dh,0x73(%rbp)
+ 4df:	20 69 6e             	and    %ch,0x6e(%rcx)
+ 4e2:	0a 00                	or     (%rax),%al
+ 4e4:	47 6f                	rex.RXB outsl %ds:(%rsi),(%dx)
+ 4e6:	64 20 64 61 6d       	and    %ah,%fs:0x6d(%rcx,%riz,2)
+ 4eb:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 4ec:	20 74 68 65          	and    %dh,0x65(%rax,%rbp,2)
+ 4f0:	6d                   	insl   (%dx),%es:(%rdi)
+ 4f1:	20 61 6c             	and    %ah,0x6c(%rcx)
+ 4f4:	6c                   	insb   (%dx),%es:(%rdi)
+ 4f5:	21 0a                	and    %ecx,(%rdx)
+ 4f7:	00 54 68 65          	add    %dl,0x65(%rax,%rbp,2)
+ 4fb:	20 41 6e             	and    %al,0x6e(%rcx)
+ 4fe:	74 65                	je     565 <.rodata+0x565>
+ 500:	6c                   	insb   (%dx),%es:(%rdi)
+ 501:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 502:	70 65                	jo     569 <.rodata+0x569>
+ 504:	20 73 68             	and    %dh,0x68(%rbx)
+ 507:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 508:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 509:	6b 20 61             	imul   $0x61,(%rax),%esp
+ 50c:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 50d:	64 20 70 69          	and    %dh,%fs:0x69(%rax)
+ 511:	74 63                	je     576 <.rodata+0x576>
+ 513:	68 65 64 20 6f       	pushq  $0x6f206465
+ 518:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 519:	20 68 65             	and    %ch,0x65(%rax)
+ 51c:	72 20                	jb     53e <.rodata+0x53e>
+ 51e:	73 69                	jae    589 <.rodata+0x589>
+ 520:	64 65 00 00          	fs add %al,%gs:(%rax)
+ 524:	00 00                	add    %al,(%rax)
+ 526:	00 00                	add    %al,(%rax)
+ 528:	42 61                	rex.X (bad) 
+ 52a:	72 72                	jb     59e <.rodata+0x59e>
+ 52c:	65 74 74             	gs je  5a3 <.rodata+0x5a3>
+ 52f:	20 77 61             	and    %dh,0x61(%rdi)
+ 532:	73 20                	jae    554 <.rodata+0x554>
+ 534:	73 6d                	jae    5a3 <.rodata+0x5a3>
+ 536:	61                   	(bad)  
+ 537:	73 68                	jae    5a1 <.rodata+0x5a1>
+ 539:	65 64 20 6c 69 6b    	gs and %ch,%fs:0x6b(%rcx,%rbp,2)
+ 53f:	65 20 61 20          	and    %ah,%gs:0x20(%rcx)
+ 543:	62                   	(bad)  
+ 544:	6f                   	outsl  %ds:(%rsi),(%dx)
+ 545:	77 6c                	ja     5b3 <.rodata+0x5b3>
+ 547:	20 6f 66             	and    %ch,0x66(%rdi)
+ 54a:	20 65 67             	and    %ah,0x67(%rbp)
+ 54d:	67 73 00             	addr32 jae 550 <.rodata+0x550>
+ 550:	41 6e                	rex.B outsb %ds:(%rsi),(%dx)
+ 552:	64 20 74 68 65       	and    %dh,%fs:0x65(%rax,%rbp,2)
+ 557:	20 4d 61             	and    %cl,0x61(%rbp)
+ 55a:	69 6e 74 72 75 63 6b 	imul   $0x6b637572,0x74(%rsi),%ebp
+ 561:	20 63 61             	and    %ah,0x61(%rbx)
+ 564:	72 72                	jb     5d8 <.rodata+0x5d8>
+ 566:	69 65 64 20 6f 66 66 	imul   $0x66666f20,0x64(%rbp),%esp
+ 56d:	20 62 6f             	and    %ah,0x6f(%rdx)
+ 570:	74 68                	je     5da <.rodata+0x5da>
+ 572:	20 6d 65             	and    %ch,0x65(%rbp)
+ 575:	20 6c 65 67          	and    %ch,0x67(%rbp,%riz,2)
+ 579:	73 0a                	jae    585 <.rodata+0x585>
+ 57b:	00 53 6f             	add    %dl,0x6f(%rbx)
+ 57e:	20 68 65             	and    %ch,0x65(%rax)
+ 581:	72 65                	jb     5e8 <.rodata+0x5e8>
+ 583:	20 49 20             	and    %cl,0x20(%rcx)
+ 586:	6c                   	insb   (%dx),%es:(%rdi)
+ 587:	61                   	(bad)  
+ 588:	79 20                	jns    5aa <.rodata+0x5aa>
+ 58a:	69 6e 20 6d 79 20 32 	imul   $0x3220796d,0x20(%rsi),%ebp
+ 591:	33 72 64             	xor    0x64(%rdx),%esi
+ 594:	20 79 65             	and    %bh,0x65(%rcx)
+ 597:	61                   	(bad)  
+ 598:	72 00                	jb     59a <.rodata+0x59a>
+ 59a:	00 00                	add    %al,(%rax)
+ 59c:	00 00                	add    %al,(%rax)
+ 59e:	00 00                	add    %al,(%rax)
+ 5a0:	49 74 27             	rex.WB je 5ca <.rodata+0x5ca>
+ 5a3:	73 20                	jae    5c5 <.rodata+0x5c5>
+ 5a5:	62                   	(bad)  
+ 5a6:	65 65 6e             	gs outsb %gs:(%rsi),(%dx)
+ 5a9:	20 36                	and    %dh,(%rsi)
+ 5ab:	20 79 65             	and    %bh,0x65(%rcx)
+ 5ae:	61                   	(bad)  
+ 5af:	72 73                	jb     624 <.rodata+0x624>
+ 5b1:	20 73 69             	and    %dh,0x69(%rbx)
+ 5b4:	6e                   	outsb  %ds:(%rsi),(%dx)
+ 5b5:	63 65 20             	movslq 0x20(%rbp),%esp
+ 5b8:	77 65                	ja     61f <.rodata+0x61f>
+ 5ba:	20 73 61             	and    %dh,0x61(%rbx)
+ 5bd:	69 6c 65 64 20 61 77 	imul   $0x61776120,0x64(%rbp,%riz,2),%ebp
+ 5c4:	61 
+ 5c5:	79 00                	jns    5c7 <.rodata+0x5c7>
+ 5c7:	00 41 6e             	add    %al,0x6e(%rcx)
+ 5ca:	64 20 49 20          	and    %cl,%fs:0x20(%rcx)
+ 5ce:	6a 75                	pushq  $0x75
+ 5d0:	73 74                	jae    646 <barrettsPrivateers+0x646>
+ 5d2:	20 6d 61             	and    %ch,0x61(%rbp)
+ 5d5:	64 65 20 48 61       	fs and %cl,%gs:0x61(%rax)
+ 5da:	6c                   	insb   (%dx),%es:(%rdi)
+ 5db:	69 66 61 78 20 79 65 	imul   $0x65792078,0x61(%rsi),%esp
+ 5e2:	73 74                	jae    658 <barrettsPrivateers+0x658>
+ 5e4:	65 72 64             	gs jb  64b <barrettsPrivateers+0x64b>
+ 5e7:	61                   	(bad)  
+ 5e8:	79 0a                	jns    5f4 <.rodata+0x5f4>
+ 5ea:	00 00                	add    %al,(%rax)
+ 5ec:	00 00                	add    %al,(%rax)
+ 5ee:	00 00                	add    %al,(%rax)
+ 5f0:	3c 3c                	cmp    $0x3c,%al
+ 5f2:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+ 5f6:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+ 5fa:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+ 5fe:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+ 602:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+ 606:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+ 60a:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+ 60e:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+ 612:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+ 616:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+ 61a:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+ 61e:	3e 3e 3c 3c          	ds ds cmp $0x3c,%al
+ 622:	3e                   	ds
+ 623:	3e                   	ds
+	...
+
+Disassembly of section .comment:
+
+0000000000000000 <.comment>:
+   0:	00 47 43             	add    %al,0x43(%rdi)
+   3:	43 3a 20             	rex.XB cmp (%r8),%spl
+   6:	28 47 4e             	sub    %al,0x4e(%rdi)
+   9:	55                   	push   %rbp
+   a:	29 20                	sub    %esp,(%rax)
+   c:	38 2e                	cmp    %ch,(%rsi)
+   e:	35 2e 30 20 32       	xor    $0x3220302e,%eax
+  13:	30 32                	xor    %dh,(%rdx)
+  15:	31 30                	xor    %esi,(%rax)
+  17:	35 31 34 20 28       	xor    $0x28203431,%eax
+  1c:	52                   	push   %rdx
+  1d:	65 64 20 48 61       	gs and %cl,%fs:0x61(%rax)
+  22:	74 20                	je     44 <barrettsPrivateers+0x44>
+  24:	38 2e                	cmp    %ch,(%rsi)
+  26:	35 2e 30 2d 31       	xor    $0x312d302e,%eax
+  2b:	36 29 00             	sub    %eax,%ss:(%rax)
+
+Disassembly of section .eh_frame:
+
+0000000000000000 <.eh_frame>:
+   0:	14 00                	adc    $0x0,%al
+   2:	00 00                	add    %al,(%rax)
+   4:	00 00                	add    %al,(%rax)
+   6:	00 00                	add    %al,(%rax)
+   8:	01 7a 52             	add    %edi,0x52(%rdx)
+   b:	00 01                	add    %al,(%rcx)
+   d:	78 10                	js     1f <.eh_frame+0x1f>
+   f:	01 1b                	add    %ebx,(%rbx)
+  11:	0c 07                	or     $0x7,%al
+  13:	08 90 01 00 00 1c    	or     %dl,0x1c000001(%rax)
+  19:	00 00                	add    %al,(%rax)
+  1b:	00 1c 00             	add    %bl,(%rax,%rax,1)
+  1e:	00 00                	add    %al,(%rax)
+  20:	00 00                	add    %al,(%rax)
+  22:	00 00                	add    %al,(%rax)
+  24:	2b 07                	sub    (%rdi),%eax
+  26:	00 00                	add    %al,(%rax)
+  28:	00 41 0e             	add    %al,0xe(%rcx)
+  2b:	10 86 02 43 0d 06    	adc    %al,0x60d4302(%rsi)
+  31:	03 26                	add    (%rsi),%esp
+  33:	07                   	(bad)  
+  34:	0c 07                	or     $0x7,%al
+  36:	08 00                	or     %al,(%rax)
